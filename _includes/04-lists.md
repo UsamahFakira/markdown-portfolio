@@ -1,4 +1,4 @@
-# Here is a list of my favourit things:
+# Here is a list of my favourite things:
 1. Playing Footbal
 2. Watching NFL
 3. Coding
